@@ -7,7 +7,7 @@
   <!-- Spring应用上下文， 理解层次化的ApplicationContext -->
   <context-param>
          <param-name>contextConfigLocation</param-name>
-        <param-value>classpath:/conf/spring/spring-sere.xsd</param-value>
+        <param-value>classpath:/conf/spring/spring-sere.xml</param-value>
   </context-param>
   
   <listener>
